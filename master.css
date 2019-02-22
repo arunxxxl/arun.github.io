@@ -1,0 +1,27 @@
+*{
+  border:0px;
+  margin-left: 0px;
+  padding: 0px;
+}
+body*{
+  border:0px;
+  margin-left: 0px;
+  padding: 0px;
+}
+
+#wrapper{
+  position: fixed;
+  font-size: 20px;
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  background-color: grey;
+}
+#wrapper h1{
+  position: relative;
+  padding:15px 30px;
+  background-color: #fcfcfc;
+}
