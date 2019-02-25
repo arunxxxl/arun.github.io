@@ -108,7 +108,7 @@ html{
         @include small{
             width: 80%;
             margin: auto;
-            display: none;
+            // display: none;
         }
     }
 
@@ -176,8 +176,6 @@ html{
     // skill set
 
     .skill{
-        // width: 100%;
-        // overflow: hidden;
         .FrontEnd-intro{
             display: none;
         }
